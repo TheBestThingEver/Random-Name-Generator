@@ -1,0 +1,20 @@
+{
+  "name": "random_name",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "\"Ben SUN BEOM Kweon",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "babel": "^6.23.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
